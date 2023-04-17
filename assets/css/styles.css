@@ -42,12 +42,17 @@ a {
 
 
 
-#videoclip {
+#talleres {
     min-height: 100vh;
     padding-top: 6rem;
 }
 
 #documental {
+    min-height: 100vh;
+    padding-top: 6rem;
+}
+
+#experimental {
     min-height: 100vh;
     padding-top: 6rem;
 }
