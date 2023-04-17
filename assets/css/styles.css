@@ -8,26 +8,25 @@ section {
     padding-top: 5.6rem;
 }
 
-h1 {
-    color: purple;
-}
+
 h2 {
     color: purple;
 }
 
 a {
-    color: teal;
+    color: white;
 }
 
-.redesSociales {
-    margin-top: 1rem;
-}
 
 #inicio {
     background-image: url(../img/Theo\ Rios.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
 }
 
 #inicio i {
