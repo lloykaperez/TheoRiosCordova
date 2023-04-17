@@ -1,0 +1,53 @@
+.logo {
+    height: auto;
+    width: 4rem;
+}
+
+section {
+    min-height: 100vh;
+    padding-top: 5.6rem;
+}
+
+h1 {
+    color: purple;
+}
+h2 {
+    color: purple;
+}
+
+a {
+    color: teal;
+}
+
+.redesSociales {
+    margin-top: 1rem;
+}
+
+#inicio {
+    background-image: url(../img/Theo\ Rios.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#inicio i {
+    font-size: 2.5rem;
+    margin: 0.5rem;
+}
+
+/* .carousel-inner {
+    height: 30rem;
+} */
+
+
+
+#videoclip {
+    min-height: 100vh;
+    padding-top: 6rem;
+}
+
+#documental {
+    min-height: 100vh;
+    padding-top: 6rem;
+}
+
