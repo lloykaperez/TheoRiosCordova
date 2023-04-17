@@ -15,18 +15,20 @@ h2 {
 
 a {
     color: white;
+    text-decoration: none;
 }
 
+.datosContacto {
+    color: teal;
+    text-decoration: none;
+}
 
 #inicio {
     background-image: url(../img/Theo\ Rios.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-
+    
 }
 
 #inicio i {
